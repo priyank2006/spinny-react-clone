@@ -4,7 +4,7 @@
     <img src="https://play-lh.googleusercontent.com/8cN700bjsGKBh5ZQ8HGYhV_hhUczWXgiMrQvPFMNmwD8lxlk-q1kzdduZJAqjE0ZGeo" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Spinny Website React JS Clone (UI)</h3>
+  <h3 align="center">Spinny Website React JS Clone (UI) (Under Developement) </h3>
 
   <p align="center">
     A React JS Project regarding Spinny's website clone.
