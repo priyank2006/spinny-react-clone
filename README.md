@@ -11,7 +11,7 @@
 Tailwind CSS is used for styling in this.
     <br/>
     <br/>
-    <a href="https://github.com/priyank2006/spinny-react-clone">View Demo</a>
+    <a href="https://spinny-priyank.vercel.app">View Demo</a>
     .
   </p>
 </p>
